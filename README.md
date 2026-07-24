@@ -1,35 +1,41 @@
-# 📚 Online Bookstore SQL Project
+# Online Bookstore SQL Project
 
-## 📌 Overview
-This project demonstrates SQL database design and data analysis using MySQL Workbench.
+This is my SQL practice project created using MySQL Workbench. In this project, I created an Online Bookstore database and performed different SQL queries to analyze sales, customers and inventory.
 
-## 🛠 Tools Used
-- MySQL Workbench
-- SQL
+## Database Tables
 
-## 📂 Database Tables
 - Books
 - Customers
 - Orders
 
-## 🚀 Features
-- Created relational database
-- Primary Key & Foreign Key constraints
-- Imported CSV datasets
-- SQL Joins
-- Aggregate Functions
-- GROUP BY
-- HAVING
-- ORDER BY
+## What I Practiced
+
+- Creating databases and tables
+- Primary Key and Foreign Key
+- Importing CSV files
+- SELECT, WHERE, ORDER BY
+- GROUP BY and HAVING
+- Aggregate Functions (SUM, COUNT, AVG, MAX, MIN)
+- JOINS
 - Subqueries
 
-## 📊 Analysis Performed
-- Total books sold by genre
-- Customers with highest spending
-- Remaining stock after fulfilling orders
-- Sales analysis
-- Customer analysis
-- Inventory analysis
+## Some SQL Tasks
 
-## 💡 Skills
-SQL | MySQL | Database Design | Data Analysis
+- Find the most expensive book
+- Calculate total books sold by genre
+- Find customers with multiple orders
+- Find the customer who spent the most
+- Calculate remaining stock after orders
+- Sales and customer analysis
+
+## Files Included
+
+- OnlineBookstore.sql
+- Books.csv
+- Customers.csv
+- Orders.csv
+
+## Tools Used
+
+- MySQL Workbench
+- SQL
